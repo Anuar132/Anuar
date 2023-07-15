@@ -1,0 +1,20 @@
+.h1{
+    background-image: url(hero.jpg);
+    display: grid;
+}
+.nav{
+    display: flex;
+    justify-content: end;
+}
+.s1{
+
+}
+.s2{
+
+}
+.s3{
+
+}
+.s4{
+
+}
