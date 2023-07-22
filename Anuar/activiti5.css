@@ -1,0 +1,33 @@
+.h1{ 
+ height: 500px;
+display: grid;  
+color: rgb(253, 253, 253);
+background-image: url(hero.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+grid-template-columns: 200px 200px 200px;
+grid-template-rows: 200px 200px 200px;
+
+}
+.nav{
+    display: flex;
+    justify-content: end;
+}
+.s1{
+ grid-column: 2/2;
+ grid-row: 1/1;
+ justify-self: end  ;
+}
+.s2{
+    
+}
+.s3{
+
+}
+.s4{
+
+}
+.img{
+justify-self: end;
+
+}
